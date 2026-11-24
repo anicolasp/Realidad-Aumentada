@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="win_20261123_23_36_54_pro" size="1.000000 0.562500" />
+    <ImageTarget name="win_20261123_23_26_24_pro" size="1.000000 0.562500" />
+    <ImageTarget name="cielo" size="1.000000 0.666667" />
+  </Tracking>
+</QCARConfig>
